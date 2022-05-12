@@ -32,9 +32,9 @@ body {
 .lado {
     background-color: rgb(35, 35, 35);
     position: absolute;
-    top: 48%;
-    left: 24%;
-    width: 470px;
+    top: 100%;
+    left: 4%;
+    width: 400px;
     font-family: Arial, Helvetica, sans-serif;
     color: azure;
 }
@@ -54,19 +54,26 @@ body {
 }
 
 .imgjurassic {
-    height: 325%;
-    margin-top: -26%;
-    width: 359px;
-    margin-left: 50%;
-    margin-bottom: 300px;
+    height: 350%;
+    margin-top: -24%;
+    width: 350px;
+    margin-left: 28%;
+    left: 0%
 }
 
 .topgun {
-    height: 325%;
-    margin-top: -11%;
-    width: 325px;
-    display: flex;
-    margin-left: 4%;
+    height: 350%;
+    margin-top: -24%;
+    width: 350px;
+    margin-left: 50%;
+    left: 0%
+}
+
+img {
+    min-width: 350px;
+    min-height: 350%;
+    max-width: 350px;
+    max-height: 350%;
 }
 
 .ladotopgun {
@@ -81,11 +88,10 @@ body {
 }
 
 .imgaranha {
-    height: 325%;
     margin-top: -25%;
     width: 359px;
-    margin-left: 50%;
-    margin-bottom: 300px;
+    padding-left: 75%;
+    padding-bottom: 300px;
 }
 
 .ladoaranha {
@@ -101,7 +107,7 @@ body {
 
 .imgavatar {
     height: 325%;
-    margin-top: -8%;
+    margin-top: 5%;
     width: 325px;
     margin-left: 4%;
     margin-bottom: 300px;
