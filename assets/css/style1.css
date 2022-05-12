@@ -1,0 +1,50 @@
+body{
+
+    background-image: url(filme4.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    
+    }
+
+
+
+.container{
+    background-color: black;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    border-radius: 15px;
+    transform: translate(-50%,-50%);
+    padding: 80px;
+}
+
+.centro{
+    text-align: center;
+    font-size: 160%
+    
+}
+.red{
+    color: crimson
+}
+
+.imagem{
+    width:20px;
+    height:-50%;
+    margin-left:500px;
+    margin-top:-60%
+
+}
+
+.filme{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.borda{
+    border-radius: 50px;
+}
+
