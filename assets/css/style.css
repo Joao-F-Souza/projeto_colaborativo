@@ -16,10 +16,11 @@ body {
 }
 
 .imagem {
-    height: 300%;
+    height: 350%;
     margin-top: 14%;
-    width: 300px;
-    margin-left: 14%;
+    width: 350px;
+    margin-left: 4%;
+    left: 0%;
 }
 
 .borda {
@@ -32,8 +33,8 @@ body {
     background-color: rgb(35, 35, 35);
     position: absolute;
     top: 48%;
-    left: 31%;
-    width: 400px;
+    left: 24%;
+    width: 470px;
     font-family: Arial, Helvetica, sans-serif;
     color: azure;
 }
@@ -41,9 +42,9 @@ body {
 .ladojurassic {
     background-color: rgb(35, 35, 35);
     position: absolute;
-    top: 100%;
-    left: 31%;
-    width: 400px;
+    top: 50%;
+    left: 70%;
+    width: 550px;
     font-family: Arial, Helvetica, sans-serif;
     color: azure;
 }
@@ -54,8 +55,160 @@ body {
 
 .imgjurassic {
     height: 325%;
-    margin-top: 5%;
-    width: 325px;
-    margin-left: 250px;
+    margin-top: -26%;
+    width: 359px;
+    margin-left: 50%;
     margin-bottom: 300px;
+}
+
+.topgun {
+    height: 325%;
+    margin-top: -11%;
+    width: 325px;
+    display: flex;
+    margin-left: 4%;
+}
+
+.ladotopgun {
+    background-color: rgb(35, 35, 35);
+    position: absolute;
+    top: 4%;
+    left: 24%;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    margin-top: 53%;
+}
+
+.imgaranha {
+    height: 325%;
+    margin-top: -25%;
+    width: 359px;
+    margin-left: 50%;
+    margin-bottom: 300px;
+}
+
+.ladoaranha {
+    background-color: rgb(35, 35, 35);
+    position: absolute;
+    top: 5%;
+    left: 70%;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    margin-top: 53%;
+}
+
+.imgavatar {
+    height: 325%;
+    margin-top: -8%;
+    width: 325px;
+    margin-left: 4%;
+    margin-bottom: 300px;
+}
+
+.ladoavatar {
+    background-color: rgb(35, 35, 35);
+    position: absolute;
+    top: 70%;
+    left: 24%;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    margin-top: 53%;
+}
+
+.imgprenda {
+    height: 325%;
+    margin-top: -43%;
+    width: 359px;
+    margin-left: 50%;
+    margin-bottom: 300px;
+}
+
+.ladoprenda {
+    background-color: rgb(35, 35, 35);
+    position: absolute;
+    top: 72%;
+    left: 70%;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    margin-top: 53%;
+}
+
+.imgvendedor {
+    height: 325%;
+    margin-top: -10%;
+    width: 325px;
+    margin-left: 4%;
+    margin-bottom: 300px;
+}
+
+.ladovendedor {
+    background-color: rgb(35, 35, 35);
+    position: absolute;
+    top: 135%;
+    left: 24%;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    margin-top: 53%;
+}
+
+.imgskyline {
+    height: 325%;
+    margin-top: -43%;
+    width: 349px;
+    margin-left: 50%;
+    margin-bottom: 300px;
+}
+
+.ladoskyline {
+    background-color: rgb(35, 35, 35);
+    position: absolute;
+    top: 134%;
+    left: 70%;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    margin-top: 53%;
+}
+
+.imgtitanic {
+    height: 325%;
+    margin-top: -10%;
+    width: 325px;
+    margin-left: 4%;
+    margin-bottom: 300px;
+}
+
+.ladotitanic {
+    background-color: rgb(35, 35, 35);
+    position: absolute;
+    top: 200%;
+    left: 24%;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    margin-top: 53%;
+}
+
+.imgvelozes {
+    height: 325%;
+    margin-top: -42%;
+    width: 339px;
+    margin-left: 50%;
+    margin-bottom: 300px;
+}
+
+.ladovelozes {
+    background-color: rgb(35, 35, 35);
+    position: absolute;
+    top: 200%;
+    left: 70%;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    margin-top: 53%;
 }
