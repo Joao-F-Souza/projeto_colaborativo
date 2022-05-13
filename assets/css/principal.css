@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+.nome {
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    color: brown;
+}
+
+.container {
+    color: rgb(116, 101, 101);
+}
+
+h3 {
+    color: aliceblue;
+}
+
+.img-thumbnail {
+    color: rgb(220, 185, 44);
+}
+
+.center {
+    text-align: center;
+}

@@ -1,0 +1,220 @@
+body {
+    background-color: rgb(38, 38, 38);
+}
+
+.container {
+    background-color: rgb(32, 32, 32);
+    width: 40%;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+    color: aliceblue;
+}
+
+.centro {
+    text-align: center
+}
+
+.imagem {
+    height: 350%;
+    margin-top: 14%;
+    width: 350px;
+    margin-left: 4%;
+    left: 0%;
+}
+
+.borda {
+    border-width: 5px;
+    border-color: rgb(170, 170, 170);
+    border-style: dashed
+}
+
+.lado {
+    background-color: rgb(35, 35, 35);
+    position: absolute;
+    top: 100%;
+    left: 4%;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+}
+
+.ladojurassic {
+    background-color: rgb(35, 35, 35);
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    width: 550px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+}
+
+.button {
+    cursor: pointer;
+}
+
+.imgjurassic {
+    height: 350%;
+    margin-top: -24%;
+    width: 350px;
+    margin-left: 28%;
+    left: 0%
+}
+
+.topgun {
+    height: 350%;
+    margin-top: -24%;
+    width: 350px;
+    margin-left: 50%;
+    left: 0%
+}
+
+img {
+    min-width: 350px;
+    min-height: 350%;
+    max-width: 350px;
+    max-height: 350%;
+}
+
+.ladotopgun {
+    background-color: rgb(35, 35, 35);
+    position: absolute;
+    top: 4%;
+    left: 24%;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    margin-top: 53%;
+}
+
+.imgaranha {
+    margin-top: -25%;
+    width: 359px;
+    padding-left: 75%;
+    padding-bottom: 300px;
+}
+
+.ladoaranha {
+    background-color: rgb(35, 35, 35);
+    position: absolute;
+    top: 5%;
+    left: 70%;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    margin-top: 53%;
+}
+
+.imgavatar {
+    height: 325%;
+    margin-top: 5%;
+    width: 325px;
+    margin-left: 4%;
+    margin-bottom: 300px;
+}
+
+.ladoavatar {
+    background-color: rgb(35, 35, 35);
+    position: absolute;
+    top: 70%;
+    left: 24%;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    margin-top: 53%;
+}
+
+.imgprenda {
+    height: 325%;
+    margin-top: -43%;
+    width: 359px;
+    margin-left: 50%;
+    margin-bottom: 300px;
+}
+
+.ladoprenda {
+    background-color: rgb(35, 35, 35);
+    position: absolute;
+    top: 72%;
+    left: 70%;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    margin-top: 53%;
+}
+
+.imgvendedor {
+    height: 325%;
+    margin-top: -10%;
+    width: 325px;
+    margin-left: 4%;
+    margin-bottom: 300px;
+}
+
+.ladovendedor {
+    background-color: rgb(35, 35, 35);
+    position: absolute;
+    top: 135%;
+    left: 24%;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    margin-top: 53%;
+}
+
+.imgskyline {
+    height: 325%;
+    margin-top: -43%;
+    width: 349px;
+    margin-left: 50%;
+    margin-bottom: 300px;
+}
+
+.ladoskyline {
+    background-color: rgb(35, 35, 35);
+    position: absolute;
+    top: 134%;
+    left: 70%;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    margin-top: 53%;
+}
+
+.imgtitanic {
+    height: 325%;
+    margin-top: -10%;
+    width: 325px;
+    margin-left: 4%;
+    margin-bottom: 300px;
+}
+
+.ladotitanic {
+    background-color: rgb(35, 35, 35);
+    position: absolute;
+    top: 200%;
+    left: 24%;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    margin-top: 53%;
+}
+
+.imgvelozes {
+    height: 325%;
+    margin-top: -42%;
+    width: 339px;
+    margin-left: 50%;
+    margin-bottom: 300px;
+}
+
+.ladovelozes {
+    background-color: rgb(35, 35, 35);
+    position: absolute;
+    top: 200%;
+    left: 70%;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    margin-top: 53%;
+}
