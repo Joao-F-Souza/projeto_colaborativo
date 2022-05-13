@@ -1,6 +1,6 @@
 body{
 
-    background-image: url(filme4.jpg);
+    background-image: url(filme.jpg.jpg);
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -8,8 +8,6 @@ body{
     height: 90vh;
     
     }
-
-
 
 .container{
     background-color: black;
